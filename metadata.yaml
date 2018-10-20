@@ -1,5 +1,5 @@
 _repo: The-Lane-That-Had-No-Turning-Volume-2_6238
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Canadian fiction'
 - !lcsh 'Short stories'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: The absurd romance of P'tite Louison -- The little bell of honour
   -- A son of the wilderness -- A worker in stone.
 title: The Lane That Had No Turning, Volume 2
